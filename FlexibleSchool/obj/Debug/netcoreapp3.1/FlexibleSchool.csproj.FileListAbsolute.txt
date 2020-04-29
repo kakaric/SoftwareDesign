@@ -1,0 +1,13 @@
+C:\Users\hodtien\source\repos\FlexibleSchool\FlexibleSchool\bin\Debug\netcoreapp3.1\FlexibleSchool.exe
+C:\Users\hodtien\source\repos\FlexibleSchool\FlexibleSchool\bin\Debug\netcoreapp3.1\FlexibleSchool.deps.json
+C:\Users\hodtien\source\repos\FlexibleSchool\FlexibleSchool\bin\Debug\netcoreapp3.1\FlexibleSchool.runtimeconfig.json
+C:\Users\hodtien\source\repos\FlexibleSchool\FlexibleSchool\bin\Debug\netcoreapp3.1\FlexibleSchool.runtimeconfig.dev.json
+C:\Users\hodtien\source\repos\FlexibleSchool\FlexibleSchool\bin\Debug\netcoreapp3.1\FlexibleSchool.dll
+C:\Users\hodtien\source\repos\FlexibleSchool\FlexibleSchool\bin\Debug\netcoreapp3.1\FlexibleSchool.pdb
+C:\Users\hodtien\source\repos\FlexibleSchool\FlexibleSchool\obj\Debug\netcoreapp3.1\FlexibleSchool.csprojAssemblyReference.cache
+C:\Users\hodtien\source\repos\FlexibleSchool\FlexibleSchool\obj\Debug\netcoreapp3.1\FlexibleSchool.csproj.CoreCompileInputs.cache
+C:\Users\hodtien\source\repos\FlexibleSchool\FlexibleSchool\obj\Debug\netcoreapp3.1\FlexibleSchool.AssemblyInfoInputs.cache
+C:\Users\hodtien\source\repos\FlexibleSchool\FlexibleSchool\obj\Debug\netcoreapp3.1\FlexibleSchool.AssemblyInfo.cs
+C:\Users\hodtien\source\repos\FlexibleSchool\FlexibleSchool\obj\Debug\netcoreapp3.1\FlexibleSchool.dll
+C:\Users\hodtien\source\repos\FlexibleSchool\FlexibleSchool\obj\Debug\netcoreapp3.1\FlexibleSchool.pdb
+C:\Users\hodtien\source\repos\FlexibleSchool\FlexibleSchool\obj\Debug\netcoreapp3.1\FlexibleSchool.genruntimeconfig.cache

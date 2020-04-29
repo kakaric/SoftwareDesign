@@ -1,0 +1,6 @@
+C:\Users\hodtien\source\repos\Plugin\Plugin\obj\Debug\Plugin.csprojAssemblyReference.cache
+C:\Users\hodtien\source\repos\Plugin\Plugin\obj\Debug\Plugin.csproj.CoreCompileInputs.cache
+C:\Users\hodtien\source\repos\Plugin\Plugin\bin\Debug\Plugin.dll
+C:\Users\hodtien\source\repos\Plugin\Plugin\bin\Debug\Plugin.pdb
+C:\Users\hodtien\source\repos\Plugin\Plugin\obj\Debug\Plugin.dll
+C:\Users\hodtien\source\repos\Plugin\Plugin\obj\Debug\Plugin.pdb

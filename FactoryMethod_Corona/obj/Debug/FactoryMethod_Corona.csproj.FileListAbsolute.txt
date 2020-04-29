@@ -1,0 +1,9 @@
+C:\Users\hodtien\source\repos\FactoryMethod_Corona\FactoryMethod_Corona\obj\Debug\FactoryMethod_Corona.csprojAssemblyReference.cache
+C:\Users\hodtien\source\repos\FactoryMethod_Corona\FactoryMethod_Corona\obj\Debug\FactoryMethod_Corona.Properties.Resources.resources
+C:\Users\hodtien\source\repos\FactoryMethod_Corona\FactoryMethod_Corona\obj\Debug\FactoryMethod_Corona.csproj.GenerateResource.cache
+C:\Users\hodtien\source\repos\FactoryMethod_Corona\FactoryMethod_Corona\obj\Debug\FactoryMethod_Corona.csproj.CoreCompileInputs.cache
+C:\Users\hodtien\source\repos\FactoryMethod_Corona\FactoryMethod_Corona\bin\Debug\FactoryMethod_Corona.exe.config
+C:\Users\hodtien\source\repos\FactoryMethod_Corona\FactoryMethod_Corona\bin\Debug\FactoryMethod_Corona.exe
+C:\Users\hodtien\source\repos\FactoryMethod_Corona\FactoryMethod_Corona\bin\Debug\FactoryMethod_Corona.pdb
+C:\Users\hodtien\source\repos\FactoryMethod_Corona\FactoryMethod_Corona\obj\Debug\FactoryMethod_Corona.exe
+C:\Users\hodtien\source\repos\FactoryMethod_Corona\FactoryMethod_Corona\obj\Debug\FactoryMethod_Corona.pdb
