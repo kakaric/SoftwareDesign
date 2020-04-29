@@ -1,7 +1,0 @@
-C:\Users\hodtien\source\repos\DistributedObject\DistributedObject\obj\Debug\DistributedObject.csprojAssemblyReference.cache
-C:\Users\hodtien\source\repos\DistributedObject\DistributedObject\obj\Debug\DistributedObject.csproj.CoreCompileInputs.cache
-C:\Users\hodtien\source\repos\DistributedObject\DistributedObject\bin\Debug\DistributedObject.exe.config
-C:\Users\hodtien\source\repos\DistributedObject\DistributedObject\bin\Debug\DistributedObject.exe
-C:\Users\hodtien\source\repos\DistributedObject\DistributedObject\bin\Debug\DistributedObject.pdb
-C:\Users\hodtien\source\repos\DistributedObject\DistributedObject\obj\Debug\DistributedObject.exe
-C:\Users\hodtien\source\repos\DistributedObject\DistributedObject\obj\Debug\DistributedObject.pdb
